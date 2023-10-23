@@ -1,0 +1,831 @@
+    1  docker start jenkins-py
+    2  stop jenkins -py
+    3  docker stop jenkins-py
+    4  clear
+    5  docker ps -a
+    6  docker start sonarqube
+    7  docker start jenkins-py
+    8  docker ps -a
+    9  ssh-keygen -t ed25519 -C "ghiczelb231@gmail.com"
+   10  ^[[200~Me0h78kKxllZcZB5XYgmBFjTZc5gMl5549S7+GEP9/c ghiczelb231@gmail.com
+   11  cat /home/one/.ssh/id_ed25519.pub
+   12  kali-tweaks
+   13  ssh -T git@github.com
+   14  git clone https://github.com/smallflyfish/ones.git
+   15  cd ones
+   16  ls
+   17  mv READMEmd
+   18  mv READMEmd README.md
+   19  git commit -m "gg"
+   20  git config --global user.email "ghiczelb231@gmail.com"
+   21  git config --global user.name "Jochy"
+   22  git commit -m "gg"
+   23  git commit -a -m "gg"
+   24  git add .
+   25  git commit -a -m "gg"
+   26  git push
+   27  ssh -T git@github.com
+   28  clear
+   29  ssh -T git@github.com
+   30  git push
+   31  cd 
+   32  rm -rf ones/
+   33  ls
+   34  git clone git@github.com:smallflyfish/ones.git
+   35  cd ones
+   36  ls
+   37  mv READMEmd README.md
+   38  git add .
+   39  git commit -a -m "gg"
+   40  git push
+   41  ls
+   42  ls -al
+   43  git add 
+   44  git add .
+   45  git commit -a -m "testup"
+   46  git push -u origin main
+   47  git push -u
+   48  ifconfig
+   49  clear
+   50  ls -al
+   51  git add .
+   52  git commit -a -m "connectsonajenkins"
+   53  git push -u
+   54  cd 
+   55  dc secpro
+   56  cd secpro
+   57  gcc -o bfsucc4 -fno-stack-protector -z execstack bfsucc4.c
+   58  ls
+   59  echo 0 > /proc/sys/kernel/randomize_va_space
+   60  sudo echo 0 > /proc/sys/kernel/randomize_va_space
+   61  ls
+   62  ls *.c
+   63  nasm -f elf64 -o sc64new.o sc64new.asm
+   64  ls
+   65  nasm -f elf64 -o sc64new.o sc64new.asm
+   66  ls *.c
+   67  ./sc64new\n
+   68  sudo -i
+   69  ls
+   70  bless exploitsucc11.bin
+   71  gdb bfsucc
+   72  gdb bfsucc4
+   73  clear
+   74  cd ..
+   75  git clone https://github.com/sethsec/PyCodeInjection.git
+   76  ls 
+   77  cd PyCodeInjection
+   78  ls -aa
+   79  docker stop jenkins-py
+   80  python PyCodeInjectionShell.py
+   81  ls
+   82  cd VulnApp
+   83  python PyCodeInjectionShell.py
+   84  python PyCodeInjectionApp.py
+   85  docker run --name dvwa -d -it -p 80:80 vulnerables/web-dvwa
+   86  docker run --name bwapp -d -p 8081:80 raesene/bwapp
+   87  docker ps -a
+   88  docker stop dvwa
+   89  docker ps -a
+   90  cat /home/one/.ssh/id_ed25519.pub
+   91  ssh -T git@github.com
+   92  ls
+   93  git clone git@github.com:smallflyfish/dast1.git
+   94  ls
+   95  cd dast1
+   96  ls
+   97  mkdir .github
+   98  cd .github
+   99  mkdir workflows
+  100  cd workflows
+  101  ls
+  102  vi github-actions-demo.yml
+  103  cat github-actions-demo.yml
+  104  cd ..
+  105  ls
+  106  ls -al
+  107  git status
+  108  git add .
+  109  git commit -m "commit"
+  110  git push -u origin main
+  111  ls
+  112  ls -all
+  113  cd .github
+  114  ls workflows
+  115  cd workflows
+  116  vi zapscan.yml
+  117  clear
+  118  cd ..
+  119  git add .
+  120  git commit -m "attack"
+  121  git push -u origin main
+  122  git push 
+  123  sudo apt update
+  124  sudo apt install zaproxy
+  125  ls -all
+  126  cd .github
+  127  ls -all
+  128  cd workflows
+  129  ls
+  130  vi github-actions-demo.yml
+  131  vi zapscan.yml
+  132  cd ..
+  133  git add .
+  134  git commit -m "attack"
+  135  git push
+  136  cd .github
+  137  cd workflows
+  138  cd..
+  139  cd ..
+  140  git push
+  141  cd ..
+  142  git clone https://github.com/snyk/java-reachability-playground
+  143  ls
+  144  git clone git@github.com:smallflyfish/snykdask.git
+  145  ls -all
+  146  cd snykdask
+  147  mkdir .github
+  148  ls -all
+  149  cd workflows
+  150  mkdir workflows
+  151  cd workflows
+  152  cd ..
+  153  rm -rf workflows
+  154  cd .github
+  155  mkdir workflows
+  156  cd workflows
+  157  vi snykscan.yml
+  158  cd ..
+  159  git add .
+  160  git commit -m "snykdask"
+  161  git branch
+  162  git push
+  163  ls -al
+  164  cd .github
+  165  ls -al
+  166  cd workflows
+  167  ls -al
+  168  vi snykscan.yml
+  169  cd ..
+  170  git commit -m "snykdask"
+  171  gi add .
+  172  git add .
+  173  git commit -m "snykdask"
+  174  git push
+  175  cd .github
+  176  cd workflows
+  177  vi snykscan.yml
+  178  cd ..
+  179  git add .
+  180  git commit -m "snykdask"
+  181  git push
+  182  cd ..
+  183  cd dast1
+  184  cd .github
+  185  cd workflows
+  186  ls -al
+  187  vi zapscan.yml
+  188  cd ..
+  189  gi add .
+  190  git add .
+  191  git commit -m "dast"
+  192  git push
+  193  cd ..
+  194  ls -al
+  195  service mysql start
+  196  sudo mysql -u root
+  197  pip install mysql.connector
+  198  cd Documents
+  199  cd 0920
+  200  python sqltest.py
+  201  python sqltest2.py
+  202  sudo apt install afl++
+  203  ls -a;
+  204  ls -a
+  205  ls -al
+  206  mkdir 925
+  207  rm -rf 925
+  208  mkdir 0925
+  209  cd 0925
+  210  mkdir fuzz_in
+  211  mkdir fuzz_out
+  212  ls
+  213  cd fuzz_in
+  214  vi testc
+  215  rm -rf testc
+  216  vi testcase
+  217  cd ..
+  218  cd fuzz_out
+  219  ls
+  220  ls-al
+  221  ls -al
+  222  cd ..
+  223  afl-gcc -o ftest1 ftest1.c
+  224  ./ftest1
+  225  afl-gcc -i fuzz_in -o fuzz_out ./ftest1
+  226  afl-fuzz -i fuzz_in -o fuzz_out ./ftest1
+  227  cd fuzz_out
+  228  ls
+  229  cd default
+  230  cd crashes
+  231  sudo apt-get install xxd
+  232  ls -al
+  233  xxd id:000000,sig:11,src:000000,time:20728,execs:4498,op:havoc,rep:15
+  234  xxd id:000001,sig:11,src:000000,time:30906,execs:6366,op:havoc,rep:7
+  235  xxd id:000002
+  236  xxd id:000002,sig:11,src:000001,time:113917,execs:17394,op:havoc,rep:64
+  237  pip install fuzzingbook
+  238  sudo apt-get install jupyter-notebook
+  239  jupyter notebook
+  240  cd ../../../
+  241  jupyter notebook
+  242  git clone https://gitlab.com/wolframroesler/afl-demo.git
+  243  LS
+  244  ls
+  245  cd afl-demo
+  246  mkdir build
+  247  ls
+  248  cd build
+  249  cmake ..
+  250  make
+  251  ls
+  252  ./afldemo <<<Hello+World%21
+  253  cd ..
+  254  ls
+  255  cd testcases
+  256  ls -al
+  257  cat 01.txt
+  258  cat 02.txt
+  259  cat 03.txt
+  260  cd ..
+  261  mkdir findings
+  262  ls
+  263  cd findings
+  264  mkdir aflbuild
+  265  ls
+  266  cd aflbuild
+  267  CC=afl-gcc CXX=afl-g++ cmake ..
+  268  CC=afl-gcc CXX=afl-g++ cmake .
+  269  CC=afl-gcc CXX=afl-g++ cmake ..
+  270  cd aflbuild
+  271  LS
+  272  ls
+  273  make
+  274  CC=afl-gcc CXX=afl-g++ cmake ..
+  275  cd ..
+  276  ls
+  277  mkdir aflbuild
+  278  cd aflbuild
+  279  CC=afl-gcc CXX=afl-g++ cmake ..
+  280  make
+  281  afl-fuzz -i ../testcases -o ../findings ./afldemo
+  282  CD ..
+  283  cd ..
+  284  ls
+  285  cd findings
+  286  cd default
+  287  ls -al
+  288  cd crashes
+  289  ls -al
+  290  xxd id:000000,sig:11,src:000000,time:24895,execs:1603,op:havoc,rep:11
+  291  xxd id:000001,sig:11,src:000000,time:54832,execs:3541,op:havoc,rep:15
+  292  ~/afl-demo
+  293  cd ..
+  294  cd ../
+  295  cd findings
+  296  cd default/crashes
+  297  ../../../aflbuild/afldemo <<<HELLO+Worldaaaaaaaaaaaaaaaaaaaaaa
+  298  ../../../aflbuild/afldemo <<<id:000000,sig:11,src:000000,time:24895,execs:1603,op:havoc,rep:11
+  299  ../../../aflbuild/afldemo <id:000000,sig:11,src:000000,time:24895,execs:1603,op:havoc,rep:11
+  300  ../../../aflbuild/afldemo <<<HELLO+World%2asjdfkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+  301  cd ../../../../
+  302  git clone git@github.com:smallflyfish/fuzzzexample.git
+  303  ls
+  304  cd fuzzzexample
+  305  llls
+  306  ls
+  307  mkdir .github
+  308  cd .git
+  309  cd ..
+  310  ls
+  311  mkdir .github
+  312  cd .github
+  313  mkdir workflows
+  314  cd workflows
+  315  ls
+  316  vi clite.yml
+  317  ls
+  318  cd ..
+  319  mkdir .clusterfuzzlite
+  320  cd .clusterfuzzlite
+  321  ls -al
+  322  cp ../../../Downloads/project.yaml
+  323  cp ../../../Downloads/project.yaml .
+  324  cp ../../../Downloads/Dockerfile .
+  325  cp ../../../Downloads/build.sh .
+  326  ls -al
+  327  vi Dockerfile
+  328  ls
+  329  cd 0925
+  330  ls
+  331  cd fuzzzexample
+  332  ls
+  333  ls -al
+  334  cd .clusterfuzzlite
+  335  ls -al
+  336  cat build.sh
+  337  cd ..
+  338  gitstatus
+  339  git branch -a
+  340  ls -al
+  341  cd .clusterfuzzlite
+  342  ls -al
+  343  cat build.sh
+  344  cd ..
+  345  git checkout -b mybranch
+  346  git branch -a
+  347  git add .
+  348  git commit -m "commit"
+  349  git push -u origin mybranch
+  350  ls -al
+  351  cd .clusterfuzzlite
+  352  ls -al
+  353  vi build.sh
+  354  vi Dockerfile
+  355  ls
+  356  cd 0925
+  357  ls
+  358  cd fuzzzexample
+  359  ls
+  360  ls -al
+  361  cd .clusterfuzzlite
+  362  ls -al
+  363  cat build.sh
+  364  cd ..
+  365  gitstatus
+  366  git branch -a
+  367  ls -al
+  368  cd .clusterfuzzlite
+  369  ls -al
+  370  cat build.sh
+  371  cd ..
+  372  git checkout -b mybranch
+  373  git branch -a
+  374  git add .
+  375  git commit -m "commit"
+  376  git push -u origin mybranch
+  377  ls -al
+  378  cd .clusterfuzzlite
+  379  ls -al
+  380  vi build.sh
+  381  vi Dockerfile
+  382  cd Downloads
+  383  cd address
+  384  xxd crash-f76145dcc80c042863d393145801c3480590ba02
+  385  cd ../../
+  386  ls
+  387  g++ myapp.cpp -o myapp
+  388  ./myapp
+  389  vi myapp.cpp
+  390  cd Downloads
+  391  cd address
+  392  cat crash-f76145dcc80c042863d393145801c3480590ba02
+  393  xxd crash-f76145dcc80c042863d393145801c3480590ba02
+  394  ../../myapp crash-f76145dcc80c042863d393145801c3480590ba02
+  395  cd ..
+  396  cd ../
+  397  cd 0925
+  398  ls -al
+  399  cat xssapp3.py
+  400  ls -al
+  401  mkdir templates
+  402  python xssapp3.py
+  403  cat xssapp3.py
+  404  ls -al
+  405  cd templates
+  406  cd ../../
+  407  python xssapp3.py
+  408  mkdir templates
+  409  ls -al
+  410  ls
+  411  vi xssapp3.py
+  412  python xssapp3.py
+  413  vi xssapp3.py
+  414  cat xssapp3.py
+  415  python xssapp3.py
+  416  ls
+  417  mkdir Hw2
+  418  cd Hw2
+  419  git clonegit@github.com:smallflyfish/K12900_hw2.git
+  420  git clone git@github.com:smallflyfish/K12900_hw2.git
+  421  ls
+  422  cd ..
+  423  rm Hw2
+  424  rm -r Hw2
+  425  cd Hw
+  426  cd Hw2
+  427  ls
+  428  cd K12900_hw2
+  429  ls
+  430  mkdir .clusterfuzzlite
+  431  cd .clusterfuzzlite
+  432  cp ../../../Downloads/build.sh .
+  433  cp ../../../Downloads/Dockerfile
+  434  cp ../../../Downloads/Dockerfile .
+  435  cp ../../../Downloads/project.yaml .
+  436  ls -a;
+  437  ls
+  438  cat Dockerfile
+  439  git branch -a
+  440  history
+  441  history |grep branch
+  442  git branch -a
+  443  cd ..
+  444  git branch -a
+  445  git checkout -b newbranch
+  446  ls
+  447  ls -al
+  448  git status
+  449  cd ..
+  450  ls
+  451  git clone git@github.com:smallflyfish/K12900_hw2.git
+  452  ls
+  453  cd K12900_hw2
+  454  mkdir .clusterfuzzlite
+  455  cd .cl
+  456  cd .clusterfuzzlite
+  457  cp ../../Downloads/build.sh .
+  458  cp ../../Downloads/project.yaml .
+  459  cp ../../Downloads/Dockerfile .
+  460  cd ..
+  461  git branch -a
+  462  git checkout -b newbranch
+  463  git add .
+  464  vi workfile
+  465  ls
+  466  ls -al
+  467  mkdir .github
+  468  cd .github
+  469  history |grep overflow
+  470  history
+  471  cd ..
+  472  ls -al
+  473  cd .github
+  474  vi overflow
+  475  vi overflow.yaml
+  476  cd ..
+  477  git add .
+  478  history |grep branch
+  479  git push -u origin newbranch
+  480  cd .github
+  481  cd workflows
+  482  mkdir workflows
+  483  ls -al
+  484  cd workflows
+  485  vi overflow.yaml
+  486  vi cflite_pr.yaml
+  487  cd ..
+  488  cd..
+  489  cd ..
+  490  git add .
+  491  git push -u origin newbranch
+  492  ls -al
+  493  cd .github
+  494  ls -al
+  495  cd workflow
+  496  cd overflow
+  497  ls -al
+  498  cd workflow
+  499  cd workflows
+  500  ls -al
+  501  mv cflite_pr.yaml cflite_pr.yml
+  502  mv overflow.yaml overflow.yml
+  503  ls -al
+  504  vi zapscan.yml
+  505  ls
+  506  cd ..
+  507  git add .
+  508  git commit -m "commit"
+  509  git push
+  510  cd .github
+  511  cd workflows
+  512  ls -al
+  513  vi overflow.yaml
+  514  vi overflow.yml
+  515  cd ..
+  516  git commit -m "commit"
+  517  cd add .
+  518  git add .
+  519  git commit -m "commit"
+  520  git push
+  521  ls -al
+  522  cd workflows
+  523  ls -al
+  524  vi overflow.yml
+  525  git commit -m "newbrench"
+  526  git add .
+  527  git commit -m "newbrench"
+  528  git push
+  529  ls ..
+  530  cd ..
+  531  ls -al
+  532  rm -r workfile
+  533  ls -al
+  534  git add .
+  535  git branch -a
+  536  git add .
+  537  git commit -m "commit"
+  538  git push
+  539  ls -al
+  540  cd .github
+  541  ls -al
+  542  cd workflows
+  543  ls
+  544  vi overflow.yml
+  545  cd ..
+  546  cd workflows
+  547  ls -al
+  548  vi zapscan.yml
+  549  cd ..
+  550  cd .
+  551  cd ..
+  552  git add .
+  553  git commit -m "commit"
+  554  git push
+  555  ls -al
+  556  cd .github
+  557  cd workflows
+  558  ls -al
+  559  vi overflow.yml
+  560  cd .. 
+  561  cd ..
+  562  ls -al
+  563  vi myform.py
+  564  ls -al
+  565  mkdir templates
+  566  cd templates
+  567  vi myform.html
+  568  vi resp.html
+  569  cd ..
+  570  python myform.py
+  571  vi myform,py
+  572  ls -al
+  573  cd templates
+  574  vi -al
+  575  ls -al
+  576  cd ..
+  577  vi myform.py
+  578  python myform.py
+  579  ls
+  580  cd templates
+  581  ls -al
+  582  vi myform.py
+  583  cat myform.html
+  584  cat resp.html
+  585  cd ..
+  586  ls -al
+  587  cat myform.py
+  588  python myform.py
+  589  ls
+  590  cd ..
+  591  mkdir hw2-2
+  592  cd hw2-2
+  593  vi myform.py
+  594  mkdir templates
+  595  cd templates
+  596  vi myform.html
+  597  vi resp.html
+  598  ls -al
+  599  cd ..
+  600  python myform.py
+  601  vi myform.html
+  602  vi myform.py
+  603  cd templates
+  604  vi myform.html
+  605  cd ..
+  606  python myform.py
+  607  vi passwordtest.py
+  608  python passwordtest.py
+  609  vi userpass.txt
+  610  cat userpass.txt
+  611  vi passwordtest2.py
+  612  cd templates
+  613  ls -al
+  614  cd ..
+  615  vi myform5.py
+  616  python myform5.py
+  617  vi myform5.py
+  618  python myform5.py
+  619  vi myform5.py
+  620  python myform5.py
+  621  ls -al
+  622  vi myform5.py
+  623  python myform5.py
+  624  vi myform5.py
+  625  python myform5.py
+  626  vi myform5.py
+  627  python myform5.py
+  628  vi myform5.py
+  629  python myform5.py
+  630  cat myform5.py
+  631  vi myform5.py
+  632  python myform5.py
+  633  CD ..
+  634  cd ..
+  635  git clone https://github.com/smallflyfish/1012K12900_hw2.git
+  636  ls -al
+  637  cd 1012K12900_hw2
+  638  git add .
+  639  git commit -m "commit"
+  640  git push
+  641  history
+  642  git push -u origin main\n
+  643  ls
+  644  unzip dependency-check-8.4.0-release.zip
+  645  ls
+  646  mkdir check
+  647  cd check
+  648  ls -al
+  649  git clone https://github.com/webpwnized/mutillidae.git
+  650  ls -al
+  651  ../dependency-check/bin/dependency-check.sh --scan mutillidae
+  652  firefox dependency-check-report.html
+  653  ls -al
+  654  df
+  655  cd ..
+  656  ls 
+  657  df -h
+  658  git clone git@github.com:smallflyfish/scatest3.git
+  659  ls 
+  660  cd scatest3
+  661  mkdir .github
+  662  cd .git
+  663  cd ..
+  664  cd .github
+  665  mkdir workflows
+  666  cd workflows
+  667  vi sca3.yml
+  668  git add
+  669  git add .
+  670  git commit -m "commit"
+  671  cd ..
+  672  cat requirements.txt
+  673  git list
+  674  clear
+  675  cat requirements.txt
+  676  pip show jinja2
+  677  cd .github
+  678  cd workflows
+  679  ls -al
+  680  cat sca3.yml
+  681  vi sca3.yml
+  682  cd ..
+  683  git add .
+  684  git commit -m "commit"
+  685  git push -u origin master\n
+  686  ls -al
+  687  cd .github
+  688  cd workflows
+  689  ls -al
+  690  vi snyk.yml
+  691  cat snyk.yml
+  692  cd ..
+  693  git add .
+  694  git commit -m "commit"
+  695  git push -u origin master
+  696  cd .github
+  697  cd workflows
+  698  vi codeql.yml
+  699  cd ..
+  700  git add .
+  701  git commit -m "commit"
+  702  git push -u origin master
+  703  cd .github
+  704  cd workflows
+  705  ls -al
+  706  git clone git@github.com:smallflyfish/myhomepage.git
+  707  cd myhomepage
+  708  ls -al
+  709  git checkout -b myhomepage\n
+  710  git branch -a
+  711  git add .
+  712  git commit -m "commit"
+  713  git push -u origin myhomepage\n
+  714  ls -al
+  715  vi index.html
+  716  git add .
+  717  git commit -m "commit"
+  718  git push -u origin myhomepage\n
+  719  git checkout main\n
+  720  git add .
+  721  git pull origin main
+  722  git branch -a
+  723  vi .git/
+  724  vi .git/config
+  725  git pull
+  726  ls -al
+  727  mkdir .github
+  728  cd .github
+  729  mkdir workflows
+  730  cd workflows
+  731  vi jekyll-gh-pages.yml
+  732  cd../../
+  733  cd ..
+  734  git add .
+  735  git commit -m "commit"
+  736  git push -u origin main\n
+  737  ls -al
+  738  vi index.html
+  739  git add .
+  740  git commit -m "commit"
+  741  git push -u origin main\n
+  742  cd ..
+  743  git clone git@github.com:smallflyfish/cdtest3.git
+  744  cd cdtest3
+  745  ls -al
+  746  cd ..
+  747  mkdir DF2
+  748  cd DF2
+  749  mkdir templates
+  750  cd templates
+  751  ls -al
+  752  cd ..
+  753  cat Dockerfile
+  754  docker pull ubuntu
+  755  docker image
+  756  docker images
+  757  docker build -t myformapp -f Dockerfile .
+  758  docker images list
+  759  docker image list
+  760  docker run -p 5000:5000 --name myformapp myformapp 
+  761  docker ps -a
+  762  docker rm myfromapp
+  763  docker rmi myfromapp
+  764  docker imagers
+  765  docker images
+  766  docker rmi f1061
+  767  docker rmi f106134529e3
+  768  docker images
+  769  docker rmi myfromapp
+  770  cd ..
+  771  cd cdtest3
+  772  mkdir .github
+  773  cd .github
+  774  mkdir workflows
+  775  cd workflows
+  776  cat pud.yml
+  777  vi pud.yml
+  778  cd ..
+  779  git add .
+  780  git commit -m "commit"
+  781  git push -u origin main\n
+  782  vi pud.yml
+  783  cd .github
+  784  cd workflows
+  785  vi pud.yml
+  786  cd ..
+  787  git add .
+  788  git commit -m "commit"
+  789  git push -u origin main\n
+  790  docker run -p 5000:5000 --name myformapp smallflyfish/mytest3 
+  791  docker images
+  792  docker ps -a
+  793  docker container rm 60b0c9954ba5
+  794  docker ps -a
+  795  docker images
+  796  docker image rm 7030deade809
+  797  docker image rm f106134529e3
+  798  docker images
+  799  docker run -p 5000:5000 --name myformapp smallflyfish/mytest3 
+  800  cd templates
+  801  ls -al
+  802  vi myformcsrf.html
+  803  cd ..
+  804  git add .
+  805  git commit -m "commit"
+  806  git push -u origin main\n
+  807  docker run -p 5000:5000 --name myformapp2 smallflyfish/mytest3 
+  808  docker images
+  809  docker image rm 7030deade809
+  810  docker image rmf 7030deade809
+  811  docker image rm -f 7030deade809
+  812  docker images
+  813  docker run -p 5000:5000 --name myformapp2 smallflyfish/mytest3 
+  814  docker images
+  815  docker ps -a
+  816  docker container rm 8ddd2354ca0e
+  817  docker container 865aed7ed8aa
+  818  docker container rm  865aed7ed8aa
+  819  docker ps -a
+  820  docker container rm  864aed7ed8aa
+  821  docker images
+  822  docker images rm 5ae3d4ac859c
+  823  docker images 5ae3d4ac859c
+  824  docker images
+  825  docker image rm  5ae3d4ac859c
+  826  docker run -p 5000:5000 --name myformapp2 smallflyfish/mytest3 
+  827  ls -al
+  828  mkdir practice
+  829  cd practice
+  830  ls -al
+
